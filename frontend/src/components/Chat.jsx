@@ -4,7 +4,6 @@ import ReactMarkdown from 'react-markdown'
 const CHIPS = [
   'Give me a quick overview of Shivraj',
   'Tell me about his four projects',
-  'Explain his AI Portfolio project, Neo',
   'How does his Resume Evaluator work?',
   'What is his experience with AWS and cloud?',
   'Tell me about his internship',

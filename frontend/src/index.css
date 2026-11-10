@@ -9,7 +9,8 @@ body {
   margin: 0;
   background-color: #0a4fa8;
   background-image:
-    url('/wallpaper.jpg'),
+    linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    url('../public/Windows 7 wallpaper.jpg'),
     radial-gradient(ellipse at 30% 35%, #7fd3ff 0%, #1e90e8 40%, #0a4fa8 75%, #06336f 100%);
   background-size: cover;
   background-position: center;
