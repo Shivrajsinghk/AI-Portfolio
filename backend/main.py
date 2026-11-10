@@ -37,8 +37,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=ORIGINS,
     allow_credentials=True,
-    allow_methods=["GET", "POST"],
-    allow_headers=["Content-Type"],
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 @app.exception_handler(RateLimitExceeded)
