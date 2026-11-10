@@ -34,5 +34,4 @@ export const PROJECTS = [
 export const ICONS = [
   ...PROJECTS.map(p => ({ ...p, type: 'project' })),
   { id: 'about', name: 'About Me', icon: '👤', type: 'about' },
-  { id: 'resume', name: 'Resume', icon: '📄', type: 'link', href: 'https://drive.google.com/file/d/1Y-Jno0xnSF6N772Nuioz41XrGzxNsA7I/view?usp=drive_link' },
 ]
