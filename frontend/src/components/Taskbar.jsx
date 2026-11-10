@@ -4,7 +4,7 @@ const EMAIL = 'shivraj2726@gmail.com'
 const GMAIL = `https://mail.google.com/mail/?view=cm&fs=1&to=${EMAIL}&su=${encodeURIComponent('Hello from your portfolio')}`
 
 const LINKS = [
-  { label: 'Resume', href: 'https://drive.google.com/file/d/1Y-Jno0xnSF6N772Nuioz41XrGzxNsA7I/view?usp=drive_link' },
+  { label: 'Resume', href: 'https://drive.google.com/file/d/1VGuplBiCDwYlk7gK51Rd-EhvEu4RAmDZ/view?usp=drive_link' },
   { label: 'GitHub', href: 'https://github.com/Shivrajsinghk' },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/shivrajsinghkushwah' },
   { label: 'Email', href: GMAIL },
