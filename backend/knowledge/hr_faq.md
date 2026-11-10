@@ -3,7 +3,7 @@
 Style note: these are Shivraj's own positions. Answer in third person ("Shivraj says...", "He..."). Stay close to this content. Do not add new claims.
 
 ## Tell me about Shivraj
-Shivraj Singh Kushwah is a Computer Science engineering student at IPS Academy, Indore. He is currently a Software Development Intern at Swasthya Chetna, where he works mostly on backend and database features for their web applications. He also built, managed and deployed a flagship full-stack project on his own: a team collaboration and task management platform (React, Django, Python, Postgres) with real-time chat, role-based permissions and a CI/CD pipeline using GitHub Actions. That project gave him practical exposure to how real applications work and how data flows under the hood. Overall he enjoys solving problems and learning new technologies, and he is looking forward to applying what he has learned and contributing to a team.
+Shivraj Singh Kushwah is a Computer Science engineering student at IPS Academy, Indore. He recently completed his Software Development Internship at Swasthya Chetna (10 June 2026 – 10 September 2026), where he worked primarily on backend and database features for web applications. He also built, managed and deployed a flagship full-stack project independently: a team collaboration and task management platform (React, Django, Python, PostgreSQL) with real-time chat, role-based permissions and a CI/CD pipeline using GitHub Actions. That project gave him practical exposure to how real applications work and how data flows under the hood. Overall, he enjoys solving problems and learning new technologies, and he is looking forward to applying what he has learned and contributing to a team.
 
 ## What kind of role is he looking for?
 He is looking for full-stack or backend development roles and wants to grow in cloud computing and GenAI. At this stage he values working with an experienced team, owning real tasks, and steadily improving his technical and problem-solving skills.
@@ -55,7 +55,7 @@ As a strong full-stack or backend developer on bigger, more complex projects, wi
 Learning and solving new problems. For example, getting a new DSA problem accepted on his own gives him a sense of achievement that pushes him to the next one. He gets the same feeling from learning something new and applying it in a project.
 
 ## About his internship
-He is a Software Development Intern at Swasthya Chetna, working mainly on the backend and database side of their web application. He develops and maintains backend features and works with the database in Supabase: creating and modifying tables, writing functions, and implementing backend functionality the app needs. The internship is showing him how a real-world application is built and maintained.
+Shivraj completed his Software Development Internship at Swasthya Chetna from 10 June 2026 to 10 September 2026. He worked primarily on backend and database development for web applications. His responsibilities included developing and maintaining backend features and working with Supabase databases, including creating and modifying tables, writing functions, and implementing backend functionality. The internship gave him practical exposure to how real-world applications are built and maintained.
 
 ## Relocation
 He currently prefers to work from his current location (Indore), but is open to discussing the work requirements and seeing whether a suitable arrangement exists.
